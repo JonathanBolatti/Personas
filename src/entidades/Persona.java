@@ -6,6 +6,7 @@ public class Persona {
 	private Integer id; 
 	private String nombre; 
 	private String primerModificacion; 
+	private String segundaModificacion; 
 
 	public Persona() {
 	}
