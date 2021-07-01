@@ -5,6 +5,7 @@ public class Persona {
 
 	private Integer id; 
 	private String nombre; 
+	private String primerModificacion; 
 
 	public Persona() {
 	}
